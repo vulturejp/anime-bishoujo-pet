@@ -14,6 +14,10 @@ A soft 美少女アニメ風 Codex pet with taupe hair, green eyes, and a calm s
 - `spritesheet.webp` - Codex-compatible animated pet spritesheet
 - `contact-sheet.png` - visual QA sheet for the spritesheet
 
+## AI Generation Notice
+
+The character artwork and pet spritesheet in this repository are AI-generated assets.
+
 ## Install
 
 Copy `pet.json` and `spritesheet.webp` into:
