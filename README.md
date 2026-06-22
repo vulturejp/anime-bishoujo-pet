@@ -1,8 +1,14 @@
 # anime-bishoujo pet
 
-Codex pet package for `anime-bishoujo`.
+![anime-bishoujo pet hero](assets/readme-hero.png)
 
-## Files
+A soft 美少女アニメ風 Codex pet with taupe hair, green eyes, and a calm sage outfit.
+
+## Preview
+
+![anime-bishoujo contact sheet](contact-sheet.png)
+
+## Package
 
 - `pet.json` - Codex pet manifest
 - `spritesheet.webp` - Codex-compatible animated pet spritesheet
