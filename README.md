@@ -21,3 +21,10 @@ Copy `pet.json` and `spritesheet.webp` into:
 ```text
 ~/.codex/pets/anime-bishoujo/
 ```
+
+## License
+
+This pet package is licensed under the
+[Creative Commons Attribution-NonCommercial 4.0 International License](https://creativecommons.org/licenses/by-nc/4.0/).
+
+You may share and adapt the assets with attribution for non-commercial use only.
